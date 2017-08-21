@@ -12,32 +12,15 @@ A collection of android security related resources.
 
 Online Analyzers
 ----
-
-1. [AndroTotal](http://andrototal.org/)
 * [Dexter](https://dexter.dexlabs.org/)
 * [Tracedroid](http://tracedroid.few.vu.nl/)
-* [Visual Threat](http://www.visualthreat.com/)
-* [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
-* [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
-* [Appknox](https://www.appknox.com/) - not free
+* [Visual Threat](http://www.visualthreat.com/) -- Konnte keinen Upload durchführen. Sieht aber interessant aus.
+* [Appknox](https://www.appknox.com/) - not free -- Bietet Backgroundwissen.
 * [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
-* [NVISO ApkScan](https://apkscan.nviso.be/)
 * [AVC UnDroid](http://undroid.av-comparatives.info/)
-* [Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day
-* [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
-* [Fraunhofer App-ray](http://app-ray.co/) - not free
-* [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
-* ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
-* ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
-* ~~[Stowaway](http://www.android-permissions.org/)~~
-* ~~[Anubis](http://anubis.iseclab.org/)~~
-* ~~[Mobile app insight](http://www.mobile-app-insight.org)~~
-* ~~[Mobile-Sandbox](http://mobile-sandbox.com)~~
-* ~~[Ijiami](http://safe.ijiami.cn/)~~
-* ~~[Comdroid](http://www.comdroid.org/)~~
-* ~~[Android Sandbox](http://www.androidsandbox.net/)~~
-* ~~[Foresafe](http://www.foresafe.com/scan)~~
+* [Fraunhofer App-ray](http://app-ray.co/) - not free -- Background Infos
+* [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments. -- Im Moment Down.
 
 Static Analysis Tools
 ----
