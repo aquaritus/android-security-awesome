@@ -25,13 +25,11 @@ Online Analyzers
 Static Analysis Tools
 ----
 
-
 * [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 * [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis -- Background
 * [Amandroid](http://amandroid.sireum.org/) -- Uni und AirForce Projekt.
 * [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
-* [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
-* [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
+* [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc. -- Installation schlug fehl. Sieht aber interessant aus.
 * [SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)
 * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 * [DroidRA](https://github.com/serval-snt-uni-lu/DroidRA)
