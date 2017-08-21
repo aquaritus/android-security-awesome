@@ -13,7 +13,7 @@ A collection of android security related resources.
 Online Analyzers
 ----
 * [Dexter](https://dexter.dexlabs.org/)
-* [Tracedroid](http://tracedroid.few.vu.nl/)
+* [Tracedroid](http://tracedroid.few.vu.nl/) -- Background Infos (Paper, Master Thesis)
 * [Visual Threat](http://www.visualthreat.com/) -- Konnte keinen Upload durchführen. Sieht aber interessant aus.
 * [Appknox](https://www.appknox.com/) - not free -- Bietet Backgroundwissen.
 * [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
@@ -25,17 +25,10 @@ Online Analyzers
 Static Analysis Tools
 ----
 
-1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
-* [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
-* [APKInspector](https://github.com/honeynet/apkinspector/)
-* [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
-* [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
-* [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
-* [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)
+
 * [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
-* [Android Decompiler](https://www.pnfsoftware.com/) – not free
-* [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis
-* [Amandroid](http://amandroid.sireum.org/)
+* [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis -- Background
+* [Amandroid](http://amandroid.sireum.org/) -- Uni und AirForce Projekt.
 * [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
 * [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
 * [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
