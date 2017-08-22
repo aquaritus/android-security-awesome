@@ -40,9 +40,7 @@ App Vulnerability Scanners
 
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 * [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
-* [Nogotofail](https://github.com/google/nogotofail)
 * [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
-* [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
 Dynamic Analysis Tools
 ----
