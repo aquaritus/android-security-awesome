@@ -78,32 +78,14 @@ Reverse Engineering
 Fuzz Testing
 ----
 
-1. [IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)
 * [Radamsa Fuzzer](https://github.com/anestisb/radamsa-android)
 * [Honggfuzz](https://github.com/google/honggfuzz)
-* [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
-* [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
-* [AndroFuzz](https://github.com/jonmetz/AndroFuzz)
 
-App Repackaging Detectors
-----
-
-1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
-
-Market Crawlers
-----
-
-1. [Google play crawler (Java)](https://github.com/Akdeniz/google-play-crawler)
-* [Google play crawler (Python)](https://github.com/egirault/googleplay-api)
-* [Google play crawler (Node) ](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
-* [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
-* [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
 
 Misc Tools
 ----
 
-1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
-* [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
+
 * [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 * [adb autocomplete](https://github.com/mbrubeck/android-completion)
 * [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
