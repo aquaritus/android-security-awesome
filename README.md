@@ -51,53 +51,28 @@ Dynamic Analysis Tools
 * [Drozer](https://github.com/mwrlabs/drozer)
 * [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub based code injection but without any modifications to the binary
 * [Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
-
 * [Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals
-
 * [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
-
 * [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 * [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
-
 * [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
-
 * [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework -- Sieht sehr vielversprechend aus
-
 * [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes.
-
 
 Reverse Engineering
 ----
 
 1. [Smali/Baksmali](https://github.com/JesusFreke/smali) – apk decompilation
-* [emacs syntax coloring for smali files](https://github.com/strazzere/Emacs-Smali)
-* [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
+
 * [AndBug](https://github.com/swdunlop/AndBug)
 * [Androguard](https://github.com/androguard/androguard) – powerful, integrates well with other tools
 * [Apktool](https://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
-* [Android Framework for Exploitation](https://github.com/appknox/AFE)
-* [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 * [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate).
 * [Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter
 * [Dex2Jar](https://github.com/pxb1988/dex2jar) - dex to jar converter
-* [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google
-* [Dedexer](http://dedexer.sourceforge.net)
-* [Fino](https://github.com/sysdream/fino)
+* [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google !!
 * [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
-* [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
-* [IntentSniffer](https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/)
-* [Introspy](https://github.com/iSECPartners/Introspy-Android)
-* [Jad]( https://varaneckas.com/jad/) - Java decompiler
-* [JD-GUI](https://github.com/java-decompiler/jd-gui) - Java decompiler
-* [CFR](http://www.benf.org/other/cfr/) - Java decompiler
-* [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler
-* [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler
-* [FernFlower](https://github.com/fesh0r/fernflower) - Java decompiler
-* [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
-* [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
-* ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 * [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
-* [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 * [Radare2](https://github.com/radare/radare2)
 
 Fuzz Testing
